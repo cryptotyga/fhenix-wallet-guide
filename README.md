@@ -42,3 +42,4 @@ Use compressed air or a wooden toothpick (be very gentle) to check for lint or d
 Try a different high-quality USB-C cable. Some cheaper cables don't support the high amperage required to push the Xtreme 3 past a certain voltage.
 If the reset and deep cycle don't help, there are two common hardware culprits for the Xtreme 3:
 Loose Ribbon Cable: There is a known issue where the internal blue ribbon cable connecting the power board to the mainboard can wiggle loose if the speaker has been dropped or vibrated heavily.
+Battery Degradation: If you’ve had the speaker for a few years and use it daily, the battery cells might have reached their end-of-life and can no longer hold a higher voltage.
