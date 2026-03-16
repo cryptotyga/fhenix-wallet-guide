@@ -24,3 +24,4 @@ The advantage here is that you can negotiate and physically inspect the battery 
 Getting your hands on an original OEM replacement battery (model number GSP-2S2P-XT3A) takes a little digging, as JBL doesn't typically sell internal parts directly to consumers. However, you have a few solid options to track one down.
 That sounds like a classic software "glitch" or a handshake issue between the battery and the charging board. Since your speaker is stuck at 20%, it often means the protection circuit has triggered or the firmware isn't reading the voltage correctly.
 This is the standard way to clear out any software loops that might be preventing a full charge.
+Press and hold the Volume + and Play/Pause buttons simultaneously for about 5–10 seconds.
