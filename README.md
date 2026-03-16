@@ -21,3 +21,4 @@ Searching the exact part number (GSP-2S2P-XT3A) will bring up several highly-rat
 If you prefer to buy in person, specialized audio and laptop battery repair shops in this hub often stock them or can source them quickly from importers.
 The advantage here is that you can negotiate and physically inspect the battery before handing over cash.
 : You can find vendors selling these replacement batteries locally. For example, there are current listings from tech suppliers based in Computer Village, Ikeja, pricing the 5200mAh battery around ₦45,000.
+Getting your hands on an original OEM replacement battery (model number GSP-2S2P-XT3A) takes a little digging, as JBL doesn't typically sell internal parts directly to consumers. However, you have a few solid options to track one down.
