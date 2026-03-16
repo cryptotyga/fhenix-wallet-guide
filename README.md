@@ -62,3 +62,4 @@ Remove these screws and gently pull the radiators out. They are sealed with a ru
 The battery is housed in a dedicated chamber to protect it from vibrations.
 Once the side panels and fabric are off, you will see a plastic frame.
 Remove the screws securing the battery door (usually located near one of the ends).
+Slide the battery out. Note: Check the connector for any signs of corrosion or if it has wiggled loose.
