@@ -37,3 +37,4 @@ JBL speakers can occasionally get "stuck" during an update or due to a bug in th
 Download or open the JBL Portable app on your iPhone.
 If an update is available (indicated by a red dot on the gear icon), install it.
 Note: If you recently updated and then the problem started, perform the Factory Reset mentioned in step 1 again.
+Since you use your speaker outdoors or in varied environments, debris can easily get into the USB-C port.
