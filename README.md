@@ -17,3 +17,4 @@ Would you like me to explain how to visually verify if a replacement battery is 
 This is a highly reliable way to guarantee an original part, though you might want to use a freight forwarding service to keep the shipping costs reasonable.
 Many sellers list "authentic, open-box" batteries that have been carefully pulled from real JBL Xtreme 3 speakers.
 This is often the most cost-effective route, though you will have to wait a few weeks for standard shipping.
+Searching the exact part number (GSP-2S2P-XT3A) will bring up several highly-rated electronics sellers offering OEM or exact-match replacements.
