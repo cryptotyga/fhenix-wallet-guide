@@ -30,3 +30,4 @@ Once it turns off, plug it back in and see if the charging LEDs progress past th
 Sometimes the battery management system (BMS) needs to recalibrate its "zero" and "100" points.
 Run it dry: Play music until the speaker shuts itself off completely
 Wait: Leave it for about 2–3 hours once it's dead.
+Full Charge: Plug it into the original charger (or a high-output USB-C brick like a Mac or iPad charger) and let it sit undisturbed for at least 5 hours.
