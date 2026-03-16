@@ -34,3 +34,4 @@ Full Charge: Plug it into the original charger (or a high-output USB-C brick lik
 Check for a Firmware Glitch
 
 JBL speakers can occasionally get "stuck" during an update or due to a bug in the JBL Portable app.
+Download or open the JBL Portable app on your iPhone.
