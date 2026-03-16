@@ -8,3 +8,5 @@ The internal metal pins should be uniform and perfectly aligned.
 The small plastic clip that plugs into the speaker's motherboard should be precisely molded with no rough plastic edges (burrs).
 Print Quality: The text, barcodes, and regulatory icons (like CE or RoHS) should be razor-sharp. Counterfeits often feature blurry text, faded ink, or slight spelling errors.
 Realistic Capacity: A genuine Xtreme 3 battery is rated at 5200mAh (or sometimes 5000mAh) and 7.2V / 7.4V.
+f a label or listing boasts a massive capacity like 6800mAh, 10,000mAh, or 12,000mAh, it is 100% fake.
++1
