@@ -15,3 +15,4 @@ Gemini said
 Because JBL doesn't officially sell standalone internal batteries directly to consumers, the market is unfortunately flooded with aftermarket clones marketed as "original."
 Would you like me to explain how to visually verify if a replacement battery is a genuine OEM part before you finalize your purchase?
 This is a highly reliable way to guarantee an original part, though you might want to use a freight forwarding service to keep the shipping costs reasonable.
+Many sellers list "authentic, open-box" batteries that have been carefully pulled from real JBL Xtreme 3 speakers.
