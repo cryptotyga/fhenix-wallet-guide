@@ -40,3 +40,4 @@ Note: If you recently updated and then the problem started, perform the Factory 
 Since you use your speaker outdoors or in varied environments, debris can easily get into the USB-C port.
 Use compressed air or a wooden toothpick (be very gentle) to check for lint or dust inside the port.
 Try a different high-quality USB-C cable. Some cheaper cables don't support the high amperage required to push the Xtreme 3 past a certain voltage.
+If the reset and deep cycle don't help, there are two common hardware culprits for the Xtreme 3:
