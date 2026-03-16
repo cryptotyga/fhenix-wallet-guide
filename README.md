@@ -46,3 +46,10 @@ Battery Degradation: If you’ve had the speaker for a few years and use it dail
 Would you like me to find a repair guide for opening the speaker, or should I check if your device might still be under warranty?
 Gemini said
 Opening the JBL Xtreme 3 requires patience because of its "seamless" fabric design and water-sealing. If you are comfortable with a screwdriver and a pry tool, here is the breakdown of the process.
+Tools Needed
+
+Phillips #1 Screwdriver
+
+Plastic Spudger or Pry Tool (Avoid metal to prevent scratching the plastic)
+
+Tweezers (Helpful for small connectors)
