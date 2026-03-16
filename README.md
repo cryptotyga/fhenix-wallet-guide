@@ -20,3 +20,4 @@ This is often the most cost-effective route, though you will have to wait a few 
 Searching the exact part number (GSP-2S2P-XT3A) will bring up several highly-rated electronics sellers offering OEM or exact-match replacements.
 If you prefer to buy in person, specialized audio and laptop battery repair shops in this hub often stock them or can source them quickly from importers.
 The advantage here is that you can negotiate and physically inspect the battery before handing over cash.
+: You can find vendors selling these replacement batteries locally. For example, there are current listings from tech suppliers based in Computer Village, Ikeja, pricing the 5200mAh battery around ₦45,000.
