@@ -31,3 +31,6 @@ Sometimes the battery management system (BMS) needs to recalibrate its "zero" an
 Run it dry: Play music until the speaker shuts itself off completely
 Wait: Leave it for about 2–3 hours once it's dead.
 Full Charge: Plug it into the original charger (or a high-output USB-C brick like a Mac or iPad charger) and let it sit undisturbed for at least 5 hours.
+Check for a Firmware Glitch
+
+JBL speakers can occasionally get "stuck" during an update or due to a bug in the JBL Portable app.
