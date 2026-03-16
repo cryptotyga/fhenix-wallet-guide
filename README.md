@@ -6,3 +6,4 @@ Tight Fit: The outer blue (or sometimes black) plastic wrap holding the battery 
 Wire Thickness: OEM batteries use thick, high-quality insulated wires to safely handle the power delivery. Fake batteries often cut costs here, using noticeably thinner, flimsy wires.
 The internal metal pins should be uniform and perfectly aligned.
 The small plastic clip that plugs into the speaker's motherboard should be precisely molded with no rough plastic edges (burrs).
+Print Quality: The text, barcodes, and regulatory icons (like CE or RoHS) should be razor-sharp. Counterfeits often feature blurry text, faded ink, or slight spelling errors.
