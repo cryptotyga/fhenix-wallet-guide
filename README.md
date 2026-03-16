@@ -57,3 +57,4 @@ Start at the bottom seam (where the rubber feet are).
 Use your pry tool to gently pop the clips along the seam.
 Once the bottom is loose, you can slide the grille off. Be careful around the top buttons; there is a small ribbon cable connecting the buttons to the mainboard.
 To get inside the "core" of the speaker, you need to remove the end caps.
+There are several Phillips screws around the perimeter of the side bumpers.
