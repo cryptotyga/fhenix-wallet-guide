@@ -53,3 +53,4 @@ Phillips #1 Screwdriver
 Plastic Spudger or Pry Tool (Avoid metal to prevent scratching the plastic)
 
 Tweezers (Helpful for small connectors)
+Start at the bottom seam (where the rubber feet are).
