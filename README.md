@@ -22,3 +22,4 @@ If you prefer to buy in person, specialized audio and laptop battery repair shop
 The advantage here is that you can negotiate and physically inspect the battery before handing over cash.
 : You can find vendors selling these replacement batteries locally. For example, there are current listings from tech suppliers based in Computer Village, Ikeja, pricing the 5200mAh battery around ₦45,000.
 Getting your hands on an original OEM replacement battery (model number GSP-2S2P-XT3A) takes a little digging, as JBL doesn't typically sell internal parts directly to consumers. However, you have a few solid options to track one down.
+That sounds like a classic software "glitch" or a handshake issue between the battery and the charging board. Since your speaker is stuck at 20%, it often means the protection circuit has triggered or the firmware isn't reading the voltage correctly.
