@@ -43,3 +43,4 @@ Try a different high-quality USB-C cable. Some cheaper cables don't support the 
 If the reset and deep cycle don't help, there are two common hardware culprits for the Xtreme 3:
 Loose Ribbon Cable: There is a known issue where the internal blue ribbon cable connecting the power board to the mainboard can wiggle loose if the speaker has been dropped or vibrated heavily.
 Battery Degradation: If you’ve had the speaker for a few years and use it daily, the battery cells might have reached their end-of-life and can no longer hold a higher voltage.
+Would you like me to find a repair guide for opening the speaker, or should I check if your device might still be under warranty?
