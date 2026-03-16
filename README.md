@@ -25,3 +25,4 @@ Getting your hands on an original OEM replacement battery (model number GSP-2S2P
 That sounds like a classic software "glitch" or a handshake issue between the battery and the charging board. Since your speaker is stuck at 20%, it often means the protection circuit has triggered or the firmware isn't reading the voltage correctly.
 This is the standard way to clear out any software loops that might be preventing a full charge.
 Press and hold the Volume + and Play/Pause buttons simultaneously for about 5–10 seconds.
+The speaker should power down on its own.
