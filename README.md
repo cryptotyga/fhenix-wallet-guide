@@ -41,3 +41,4 @@ Since you use your speaker outdoors or in varied environments, debris can easily
 Use compressed air or a wooden toothpick (be very gentle) to check for lint or dust inside the port.
 Try a different high-quality USB-C cable. Some cheaper cables don't support the high amperage required to push the Xtreme 3 past a certain voltage.
 If the reset and deep cycle don't help, there are two common hardware culprits for the Xtreme 3:
+Loose Ribbon Cable: There is a known issue where the internal blue ribbon cable connecting the power board to the mainboard can wiggle loose if the speaker has been dropped or vibrated heavily.
