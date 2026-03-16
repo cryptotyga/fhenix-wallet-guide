@@ -10,3 +10,4 @@ Print Quality: The text, barcodes, and regulatory icons (like CE or RoHS) should
 Realistic Capacity: A genuine Xtreme 3 battery is rated at 5200mAh (or sometimes 5000mAh) and 7.2V / 7.4V.
 f a label or listing boasts a massive capacity like 6800mAh, 10,000mAh, or 12,000mAh, it is 100% fake.
 +1
+To visually verify if a replacement battery (model GSP-2S2P-XT3A or IBA001GA) is a genuine OEM part—which is usually pulled from an actual speaker—you'll want to inspect a few specific details closely:
