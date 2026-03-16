@@ -44,3 +44,5 @@ If the reset and deep cycle don't help, there are two common hardware culprits f
 Loose Ribbon Cable: There is a known issue where the internal blue ribbon cable connecting the power board to the mainboard can wiggle loose if the speaker has been dropped or vibrated heavily.
 Battery Degradation: If you’ve had the speaker for a few years and use it daily, the battery cells might have reached their end-of-life and can no longer hold a higher voltage.
 Would you like me to find a repair guide for opening the speaker, or should I check if your device might still be under warranty?
+Gemini said
+Opening the JBL Xtreme 3 requires patience because of its "seamless" fabric design and water-sealing. If you are comfortable with a screwdriver and a pry tool, here is the breakdown of the process.
