@@ -29,3 +29,4 @@ The speaker should power down on its own.
 Once it turns off, plug it back in and see if the charging LEDs progress past the first segment.
 Sometimes the battery management system (BMS) needs to recalibrate its "zero" and "100" points.
 Run it dry: Play music until the speaker shuts itself off completely
+Wait: Leave it for about 2–3 hours once it's dead.
