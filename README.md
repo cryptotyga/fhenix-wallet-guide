@@ -18,3 +18,4 @@ This is a highly reliable way to guarantee an original part, though you might wa
 Many sellers list "authentic, open-box" batteries that have been carefully pulled from real JBL Xtreme 3 speakers.
 This is often the most cost-effective route, though you will have to wait a few weeks for standard shipping.
 Searching the exact part number (GSP-2S2P-XT3A) will bring up several highly-rated electronics sellers offering OEM or exact-match replacements.
+If you prefer to buy in person, specialized audio and laptop battery repair shops in this hub often stock them or can source them quickly from importers.
