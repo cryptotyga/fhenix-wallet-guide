@@ -35,3 +35,4 @@ Check for a Firmware Glitch
 
 JBL speakers can occasionally get "stuck" during an update or due to a bug in the JBL Portable app.
 Download or open the JBL Portable app on your iPhone.
+If an update is available (indicated by a red dot on the gear icon), install it.
