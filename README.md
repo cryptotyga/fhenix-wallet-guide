@@ -11,3 +11,5 @@ Realistic Capacity: A genuine Xtreme 3 battery is rated at 5200mAh (or sometimes
 f a label or listing boasts a massive capacity like 6800mAh, 10,000mAh, or 12,000mAh, it is 100% fake.
 +1
 To visually verify if a replacement battery (model GSP-2S2P-XT3A or IBA001GA) is a genuine OEM part—which is usually pulled from an actual speaker—you'll want to inspect a few specific details closely:
+Gemini said
+Because JBL doesn't officially sell standalone internal batteries directly to consumers, the market is unfortunately flooded with aftermarket clones marketed as "original."
