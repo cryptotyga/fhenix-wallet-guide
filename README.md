@@ -26,3 +26,4 @@ That sounds like a classic software "glitch" or a handshake issue between the ba
 This is the standard way to clear out any software loops that might be preventing a full charge.
 Press and hold the Volume + and Play/Pause buttons simultaneously for about 5–10 seconds.
 The speaker should power down on its own.
+Once it turns off, plug it back in and see if the charging LEDs progress past the first segment.
