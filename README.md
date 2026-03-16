@@ -61,3 +61,4 @@ There are several Phillips screws around the perimeter of the side bumpers.
 Remove these screws and gently pull the radiators out. They are sealed with a rubber gasket for waterproofing, so they might be a bit "sticky."
 The battery is housed in a dedicated chamber to protect it from vibrations.
 Once the side panels and fabric are off, you will see a plastic frame.
+Remove the screws securing the battery door (usually located near one of the ends).
