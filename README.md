@@ -14,3 +14,4 @@ To visually verify if a replacement battery (model GSP-2S2P-XT3A or IBA001GA) is
 Gemini said
 Because JBL doesn't officially sell standalone internal batteries directly to consumers, the market is unfortunately flooded with aftermarket clones marketed as "original."
 Would you like me to explain how to visually verify if a replacement battery is a genuine OEM part before you finalize your purchase?
+This is a highly reliable way to guarantee an original part, though you might want to use a freight forwarding service to keep the shipping costs reasonable.
